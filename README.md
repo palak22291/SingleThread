@@ -7,7 +7,7 @@ A local multi-tier network simulation built on macOS featuring a custom dnsmasq 
 
 ## Team Information
 * **Team Name:** [SingleThread]
-* **Student Name:** Yojana Gupta
+* **Student Name:** Palak Gupta
 * **Enrollment Number:** [2401010312]
 
 ## Architecture Overview
