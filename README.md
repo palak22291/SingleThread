@@ -4,7 +4,7 @@ A resilient, multi-tier private network architecture simulating an enterprise we
 
 ---
 
-## 📋 Project Information
+##  Project Information
 
 * **Course:** Computer Networks
 * **Project:** Phase 1 (Build & Observe) & Phase 2 (Harden & Recover)
@@ -14,7 +14,7 @@ A resilient, multi-tier private network architecture simulating an enterprise we
 
 ---
 
-## 🏗️ Architecture & Network Topology
+##  Architecture & Network Topology
 
 The architecture separates responsibilities across client, edge proxy, and redundant backend application tiers:
 
@@ -76,7 +76,7 @@ The architecture separates responsibilities across client, edge proxy, and redun
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -107,7 +107,7 @@ The architecture separates responsibilities across client, edge proxy, and redun
 
 ---
 
-## 🚀 Setup & Execution Guide
+##  Setup & Execution Guide
 
 ### 1. Launch Redundant Node.js Backends
 From the project root on the VM / server:
@@ -151,7 +151,7 @@ sudo ufw status verbose
 
 ---
 
-## 📸 Experimental Verification & Evidence
+##  Experimental Verification & Evidence
 
 This section contains all empirical markdown evidence captures validating DNS resolution, packet flows, reverse proxy load balancing, HTTP caching, firewall security, and high-availability failover.
 
@@ -266,7 +266,7 @@ This section contains all empirical markdown evidence captures validating DNS re
 
 ---
 
-## 📚 Technical Documentation & Reports
+##  Technical Documentation & Reports
 
 For in-depth architectural analysis and post-mortem findings, consult the project documents:
 * [Complete Architecture Document (Phase 1 & Phase 2)](docs/Complete%20Architecture%20Document.pdf): Full specification of nodes, IP maps, layer-by-layer protocol interactions, and production equivalencies.
